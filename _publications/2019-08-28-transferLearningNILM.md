@@ -8,7 +8,7 @@ venue: 'IEEE Transactions on Smart Grid'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8818314/authors#authors'
 citation: 'Michele D’Incecco, Stefano Squartini, & Mingjun Zhong (2020). &quot;Transfer Learning for Non-Intrusive Load Monitoring.&quot; <i>IEEE Transactions on Smart Grid</i>. vol. 11, no. 2, pp. 1419-1429, March 2020'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about transfer learning for NILM.
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/8818314/authors#authors)
 
