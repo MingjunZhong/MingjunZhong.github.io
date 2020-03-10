@@ -1,7 +1,7 @@
 ---
 title: "Data Integration for Classiﬁcation Problems Employing Gaussian Process Priors"
 collection: publications
-permalink: /publication/2007-paper-title-number-1
+permalink: /publication/2007-paper-nips
 excerpt: 'This paper proposed to employ Gaussian process method for integrating data sources.'
 date: 2007
 venue: 'NIPS'
