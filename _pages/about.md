@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Mingjun Zhong is a Lecturer in Computer Science (Machine Learning) in College of Science. Before coming to Lincoln, he was a Research Associate at the School of Informatics in the University of Edinburgh, working with Dr. Charles Sutton and Dr. Nigel Goddard on the EPSRC project “IDEAL: Intelligent Domestic Energy Advice Loop”. He was an Associate Professor in the Dalian University of Technology, China. Prior to this, he was a Research Assistant at the School of Computing in the University of Glasgow under the supervision of Professor Mark Girolami. Prior to this, he was a Postdoctoral Fellow at INRIA Rennes, France, working with Dr. Anatole LECUYER. He obtained his PhD in Applied Mathematics from the Department of Applied Mathematics in the Dalian University of Technology, China.
+Mingjun Zhong is a Senior Lecturer in Machine Learning at the School of Computer Science at the moment. (I am soon moving to the University of Aberdeen on the 1st June.) 
+I am interested in application-driven machine learning. I am particularly interested in machine learning for healthcare and energy. I have been working on Bayesian inference including variational inferential algorithms and Markov chain Monte Carlo for problems for example matrix factorization, Raman spectra data, household energy, and medical imaging data. I have developed deep learning algorithms for example sequence-to-point learning for non-intrusive load monitoring (energy disaggregation).
 
 Latest updates
 ======
