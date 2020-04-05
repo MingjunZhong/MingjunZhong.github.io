@@ -8,14 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Mingjun Zhong is a Senior Lecturer in Machine Learning at the School of Computer Science at the moment. (I am soon moving to the University of Aberdeen on the 1st June.) My research interests are mainly (application-driven) machine learning and computational statistics. My research mission is to understand patterns and phenomena observed in real-world data by devising probabilistic and statistical machine learning methodologies.
+Mingjun Zhong is a Senior Lecturer in Machine Learning at the School of Computer Science in the University of Lincoln at the moment. (I am soon moving to the University of Aberdeen on the 1st June.) My research interests are mainly (application-driven) machine learning and computational statistics. My research mission is to understand patterns and phenomena observed in real-world data by devising probabilistic and statistical machine learning methodologies.
 
-I have been working on the following directions
-1. Non-intrusive load monitoring.
-1. Variational inference.
+I have been working on the following directions with machine learning:
+1. Ambulance data.
+1. Non-intrusive load monitoring (energy disaggregation).
+1. Spectroscopy data.
+1. EEG and fMRI.
+1. Variational inference and Markov chain Monte Carlo.
 
-I am interested in application-driven machine learning. I am particularly interested in machine learning for healthcare and energy. I have been working on Bayesian inference including variational inferential algorithms and Markov chain Monte Carlo for problems for example matrix factorization, Raman spectra data, household energy, and medical imaging data. I have developed deep learning algorithms for example sequence-to-point learning for non-intrusive load monitoring (energy disaggregation).
+In the foreseen future, I will be particularly focusing on machine learning for health care data and energy.
 
 Latest updates
 ======
-To be updated soon ...
+To be updated ...
