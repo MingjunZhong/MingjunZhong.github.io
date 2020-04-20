@@ -3,14 +3,12 @@ title: "Machine Learning"
 collection: teaching
 type: "Lectures"
 permalink: /teaching/2015-spring-teaching-1
-venue: "School of Computer Science"
-date: 2015-01-01
-location: "City, Country"
+venue: "School of Computer Science, University of Lincoln"
+date: 2017-2020
+location: "Lincoln, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-test1
-test2
+A MSc module for Computer Science.
 
 Heading 1
 ======
