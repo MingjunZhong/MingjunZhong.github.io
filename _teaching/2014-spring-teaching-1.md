@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Software Engineering"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2018-spring-teaching-1
+venue: "University of Lincoln, School of Computer Science"
+date: 2018-01-01
+location: "Lincoln, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Software Engineering covers software development methodologies. 
+Software developments with Agile and Waterfall methods
 ======
 
-Heading 2
-======
-
-Heading 3
-======
