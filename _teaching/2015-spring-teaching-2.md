@@ -4,7 +4,7 @@ collection: teaching
 type: "Lectures"
 permalink: /teaching/2015-spring-teaching-1
 venue: "School of Computer Science, University of Lincoln"
-date: 2018,2019,2020
+date: 
 location: "Lincoln, UK"
 ---
 
