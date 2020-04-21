@@ -10,11 +10,7 @@ location: "Lincoln, UK"
 
 A MSc module for Computer Science.
 
-Heading 1
+Introductory to Machine Learning
 ======
 
-Heading 2
-======
 
-Heading 3
-======
