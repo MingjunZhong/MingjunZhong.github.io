@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-======
+========================
 * Machine Learning
 * Robotics
 * Knowledge Representation and Reasoning
 
 Teaching in the past
 ======
+========================
 * Machine Learning
 * Algorithms for Data Mining
 * Software Engineering
