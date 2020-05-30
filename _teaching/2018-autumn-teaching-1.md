@@ -1,12 +1,12 @@
----
-title: "Software Engineering"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2018-autumn-teaching-1
-venue: "University of Lincoln, School of Computer Science"
-date: 2018-01-01
-location: "Lincoln, UK"
----
+#---
+#title: "Software Engineering"
+#collection: teaching
+#type: "Undergraduate course"
+#permalink: /teaching/2018-autumn-teaching-1
+#venue: "University of Lincoln, School of Computer Science"
+#date: 2018-01-01
+#location: "Lincoln, UK"
+#---
 
 Software Engineering covers software development methodologies. 
 
