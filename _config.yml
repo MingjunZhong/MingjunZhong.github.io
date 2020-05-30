@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "About"
   avatar           : "profile.png"
-  bio              : "Senior Lecturer in Machine Learning"
-  location         : "University of Lincoln"
+  bio              : "Lecturer in Machine Learning"
+  location         : "University of Aberdeen"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=maGmqdMAAAAJ&hl=en"
