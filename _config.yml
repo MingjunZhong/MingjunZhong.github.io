@@ -83,11 +83,11 @@ author:
   name             : "About"
   avatar           : "profile.png"
   bio              : "Lecturer in Machine Learning"
-  location         : "University of Aberdeen"
-  employer         :
+  location         : "Aberdeen, Scotland"
+  employer         : "University of Aberdeen"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=maGmqdMAAAAJ&hl=en"
-  email            :
+  email            : "mingjun.zhong@abdn.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
